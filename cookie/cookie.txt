@@ -1,0 +1,10 @@
+skey=@K1wYo1p5d; uin=o2497539521;
+skey=@4h8bLpCzX; uin=o1150647781;
+skey=@TZbt7pUIq; uin=o3449757262;
+skey=@GfW0s9tnT; uin=o3429756571;
+skey=@2cS7Iyvbl; uin=o3429340002;
+skey=@W6tKKYqir; uin=o3449635606;
+skey=@XCLl016oC; uin=o2478358170;
+skey=@H9UE3KQqU; uin=o3450354248;
+skey=@YIDTTuIIQ; uin=o3449941911;
+skey=@4s8NOqjFA; uin=o3450063630;
